@@ -7,6 +7,6 @@ def my_all?(collection)
       yield(collection[i])
       i=i+1 
     end
-  end
+  
 
 end
